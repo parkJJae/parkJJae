@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" alt="parkjjae" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning **Java, Spring, Spring-Boot, python, Fast-api**
 
 - 📝 I regularly write articles on [https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170)
 

@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java, Spring, Spring-Boot, python, Fast-api**
 
-- 📝 I regularly write articles on [https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170)
-
-- 📫 How to reach me **wgpark0830@naver.com**
+- 📝 Notion: [https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170)
+- 📝 Velog: [https://velog.io/@qwg2825/posts] 
+- 📫 Email: **wgpark0830@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

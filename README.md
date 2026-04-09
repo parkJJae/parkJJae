@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkjjae&show_icons=true&locale=en" alt="parkjjae" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjjae&" alt="parkjjae" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjjae&" alt="parkjjae" /></p>

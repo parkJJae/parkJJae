@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ParkJJae</h1>
 <h3 align="center">Backend Developer · Java & Spring Boot</h3>
-<p align="center">완벽한 이해를 추구합니다.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -38,12 +37,6 @@
 
 ---
 
-### 🌱 Currently Learning
-
-Java · Spring Boot  
-더 깊은 백엔드 이해를 위해 학습 및 프로젝트 진행중입니다.
-
----
 
 ### 📫 Contact & Links
 

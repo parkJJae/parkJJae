@@ -26,8 +26,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parkjjae&show_icons=true&hide_border=true&count_private=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjae&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parkjjae&show_icons=true&hide_border=true&count_private=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parkjjae&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=parkjjae&hide_border=true" />
@@ -38,7 +38,7 @@
 ### 🌱 Currently Learning
 
 Java · Spring Boot  
-더 깊은 백엔드 이해를 위해 학습 중입니다.
+더 깊은 백엔드 이해를 위해 학습 및 프로젝트 진행중입니다.
 
 ---
 

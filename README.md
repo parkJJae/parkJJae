@@ -1,24 +1,52 @@
 <h1 align="center">Hi 👋, I'm ParkJJae</h1>
-<h3 align="center">Software developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" alt="parkjjae" /> </p>
-
-- 🌱 I’m currently learning **Java, Spring, Spring-Boot, python, Fast-api**
-
-- 📝 Notion: [https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170)
-- 📝 Velog: [https://velog.io/@qwg2825/posts] 
-- 📫 Email: **wgpark0830@naver.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/parkisrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parkisrld" height="30" width="40" /></a>
+<h3 align="center">Backend Developer · Java & Spring Boot</h3>
+<p align="center">완벽한 이해를 추구합니다.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkjjae&show_icons=true&locale=en&layout=compact" alt="parkjjae" /></p>
+### 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parkjjae&show_icons=true&locale=en" alt="parkjjae" /></p>
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parkjjae&" alt="parkjjae" /></p>
+**Database & Infra**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parkjjae&show_icons=true&hide_border=true&count_private=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkjjae&layout=compact&hide_border=true&theme=default" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parkjjae&hide_border=true" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+Java · Spring Boot  
+더 깊은 백엔드 이해를 위해 학습 중입니다.
+
+---
+
+### 📫 Contact & Links
+
+| | |
+|---|---|
+| 📝 Velog | [velog.io/@qwg2825](https://velog.io/@qwg2825/posts) |
+| 📒 Notion | [포트폴리오](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170) |
+| 📧 Email | wgpark0830@naver.com |
+| 📸 Instagram | [@parkisrld](https://instagram.com/parkisrld) |

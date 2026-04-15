@@ -50,6 +50,6 @@ Java · Spring Boot
 | | |
 |---|---|
 | 📝 Velog | [velog.io/@qwg2825](https://velog.io/@qwg2825/posts) |
-| 📒 Notion | [포트폴리오](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170) |
+| 📒 Notion | [정리](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170) |
 | 📧 Email | wgpark0830@naver.com |
 | 📸 Instagram | [@parkisrld](https://instagram.com/parkisrld) |

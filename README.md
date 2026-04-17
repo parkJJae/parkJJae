@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ParkJJae</h1>
+<h1 align="center">Hi 👋 I'm ParkJJae</h1>
 <h3 align="center">Backend Developer · Java & Spring Boot</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" />

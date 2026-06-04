@@ -42,7 +42,7 @@
 
 | | |
 |---|---|
-| 📝 Velog | [velog.io/@qwg2825](https://velog.io/@qwg2825/posts) |
+| 📝 Velog | [기술 블로그](https://velog.io/@qwg2825/posts) |
 | 📒 Notion | [정리](https://www.notion.so/38e56cfd304e4f5aa5070f5aa2146170) |
 | 📧 Email | wgpark0830@naver.com |
 | 📸 Instagram | [@parkisrld](https://instagram.com/parkisrld) |

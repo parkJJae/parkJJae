@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:14b8a6,100:14b8a6&height=120&section=header&text=ParkJJae's%20GitHub&fontSize=60&fontColor=ffffff" />
-</p>
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:14b8a6,100:14b8a6&height=120&section=header&text=ParkJJae's%20GitHub&fontSize=60&fontColor=ffffff" /><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:5eead4&height=60&section=footer" />
 </p>
 <h3 align="center">Backend Developer</h3>

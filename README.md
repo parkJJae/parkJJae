@@ -1,5 +1,7 @@
-<h1 align="center">Hi!! 👋 I'm ParkJJae</h1>
-<h3 align="center">Backend Developer · Java & Spring Boot</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:14b8a6,100:14b8a6&height=120&section=header&text=ParkJJae's%20GitHub&fontSize=60&fontColor=ffffff" />
+</p>
+<h3 align="center">Backend Developer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parkjjae&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -36,7 +38,6 @@
 </p>
 
 ---
-
 
 ### 📫 Contact & Links
 

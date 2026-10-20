@@ -35,3 +35,12 @@
 |---|---|
 | 📝 Velog | [기술 블로그](https://velog.io/@qwg2825/posts) |
 | 📧 Email | wgpark0830@naver.com |
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/parkjjae"
+  width="100%"
+  height="300"
+/>
+</a>
+  

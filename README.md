@@ -36,11 +36,11 @@
 | 📝 Velog | [기술 블로그](https://velog.io/@qwg2825/posts) |
 | 📧 Email | wgpark0830@naver.com |
 
-<a href="https://github.com/devxb/gitanimals">
+</a>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=parkJJae&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/parkjjae"
+  src="https://render.gitanimals.org/farms/parkJJae"
   width="100%"
   height="300"
 />
 </a>
-  
